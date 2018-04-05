@@ -17,14 +17,21 @@ _Structure is WIP_
 ### Apps / Tools
 
 #### Developer Tools
-* [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): Swift auto-completions for any text editor. Linux port in progress.
+* [Archery](https://github.com/vknabel/Archery): A Swift framework and command-line tool to manage your projects' metadata. Runs on Darwin and Linux.
+* [Beak](https://github.com/yonaskolb/Beak): A Swift framework and command-line tool to execute functions within your Swift scripts.
 * [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol. Linux port on the making.
+* [Marathon](https://github.com/JohnSundell/Marathon): A command-line tool to run and manage Swift scripts.
+* [Mint](https://github.com/yonaskolb/Mint): A Swift framework and command-line tool to run and install Swift Package Manager command-line tools. Runs on Darwin and Linux.
 * [SourceKitten](https://github.com/jpsim/SourceKitten): a Swift framework and command-line tool for interacting with SourceKit. Runs in Darwin and Linux ✨ 
+* [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): Swift auto-completions for any text editor. Linux port in progress.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery): a command-line tool for metaprogramming for Swift.
 
 ### Libraries
 
 #### Quality of Life libraries
 * [Commandant](https://github.com/Carthage/Commandant): a framework for parsing command-line arguments.
+* [Commander](https://github.com/kylef/Commander): a framework for parsing command-line arguments.
+* [Stencil](https://github.com/kylef/Stencil): a templating engine inspired by Django and Mustache.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck): a powerful library for Property Testing. Inspired by Haskell's QuickCheck.
 
 #### System libraries
