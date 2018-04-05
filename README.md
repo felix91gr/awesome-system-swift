@@ -26,6 +26,7 @@ _Structure is WIP!_
 ### Libraries
 
 #### System libraries
+* [iNotify](https://github.com/Ponyboy47/inotify): a Swift wrapper around the CInotify library. WIP. The objective is to be able to have File Events akin to those you can subscribe to in Darwin.
 
 #### Web libraries
 * [Embassy](https://github.com/envoy/Embassy): a lightweight async HTTP server library. Runs in Darwin and Linux ^u^
