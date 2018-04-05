@@ -31,4 +31,4 @@ _Structure is WIP!_
 * [Embassy](https://github.com/envoy/Embassy): a lightweight async HTTP server library. Runs in Darwin and Linux ^u^
 
 #### Compute libraries
-* [Nifty](https://github.com/nifty-swift/Nifty): A `numPy`-like library for Swift. Uses LAPACK and it runs on Linux and Darwin. Currently WIP.
+* [Nifty](https://github.com/nifty-swift/Nifty): A `numPy`-like library for Swift. Uses LAPACK and it runs on Linux and Darwin. Currently on alpha.
