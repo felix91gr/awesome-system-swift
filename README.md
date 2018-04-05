@@ -34,6 +34,7 @@ _Structure is WIP!_
 
 #### Web libraries
 * [Embassy](https://github.com/envoy/Embassy): a lightweight async HTTP server library.
+* [Vapor](https://github.com/vapor/vapor): a server-side Swift web framework.
 
 #### Compute libraries
-* [Nifty](https://github.com/nifty-swift/Nifty): A `numPy`-like library for Swift. Wraps `LAPACK` and `Accelerate` for performance. Currently on alpha.
+* [Nifty](https://github.com/nifty-swift/Nifty): a `numPy`-like library for Swift. Wraps `LAPACK` and `Accelerate` for performance. Currently on alpha.
