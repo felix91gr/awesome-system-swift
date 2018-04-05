@@ -21,8 +21,6 @@ _Structure is WIP_
 * [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol. Linux port on the making.
 * [SourceKitten](https://github.com/jpsim/SourceKitten): a Swift framework and command-line tool for interacting with SourceKit. Runs in Darwin and Linux ✨ 
 
-#### Command-line Utilities
-
 ### Libraries
 
 #### Quality of Life libraries
