@@ -25,6 +25,8 @@ _Structure is WIP_
 * [SourceKitten](https://github.com/jpsim/SourceKitten): a Swift framework and command-line tool for interacting with SourceKit. Runs in Darwin and Linux ✨ 
 * [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): Swift auto-completions for any text editor. Linux port in progress.
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery): a command-line tool for metaprogramming for Swift.
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat): a command-line tool to format your Swift code.
+* [SwiftLint](https://github.com/realm/SwiftLint): a command-line tool to lint your Swift code.
 
 ### Libraries
 
