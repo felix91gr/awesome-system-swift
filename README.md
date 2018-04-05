@@ -2,6 +2,8 @@
 
 The Swift open source community is growing, but the cross-platform codebase is not huge yet. Help expand it by making something and adding it to the index :)
 
+Our objective is to feature cross-platform libraries, designed for wherever Swift runs ;)
+
 ## How to...
 
 * add to the Index? Issue a Pull Request!
