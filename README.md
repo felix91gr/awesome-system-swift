@@ -4,7 +4,7 @@ The Swift open source community is growing, but the cross-platform codebase is n
 
 ## How to add to the index
 
-Issue a Pull Request :)
+Issue a Pull Request!
 
 ## How to help
 
