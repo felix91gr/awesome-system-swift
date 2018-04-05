@@ -18,7 +18,7 @@ _Structure is WIP_
 
 #### Developer Tools
 * [Archery](https://github.com/vknabel/Archery): A Swift framework and command-line tool to manage your projects' metadata. Runs on Darwin and Linux.
-* [Beak](https://github.com/yonaskolb/Beak): A Swift framework and command-line tool to execute functions within your Swift scripts.
+* [Beak](https://github.com/yonaskolb/Beak): A Swift framework and command-line tool to execute functions declared within Swift scripts.
 * [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol. Linux port on the making.
 * [Marathon](https://github.com/JohnSundell/Marathon): A command-line tool to run and manage Swift scripts.
 * [Mint](https://github.com/yonaskolb/Mint): A Swift framework and command-line tool to run and install Swift Package Manager command-line tools. Runs on Darwin and Linux.
