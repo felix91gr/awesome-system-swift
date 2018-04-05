@@ -17,19 +17,22 @@ _Structure is WIP!_
 ### Apps / Tools
 
 #### Developer Tools
-* [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): Swift auto-completions for any text editor. Works on Darwin. Linux port in progress.
-* [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol. Works on Darwin. Linux port on the making.
+* [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): Swift auto-completions for any text editor. Linux port in progress.
+* [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol. Linux port on the making.
 * [SourceKitten](https://github.com/jpsim/SourceKitten): a Swift framework and command-line tool for interacting with SourceKit. Runs in Darwin and Linux ✨ 
 
 #### Command-line Utilities
 
 ### Libraries
 
+#### Quality of Life libraries
+* [Commandant](https://github.com/Carthage/Commandant): a framework for parsing command-line arguments.
+
 #### System libraries
-* [iNotify](https://github.com/Ponyboy47/inotify): a Swift wrapper around the CInotify library. WIP. The objective is to be able to have File Events akin to those you can subscribe to in Darwin.
+* [iNotify](https://github.com/Ponyboy47/inotify): _Linux only_ a Swift wrapper around the CInotify library. The objective is to be able to have File Events akin to those you can subscribe to in Darwin. _WIP_
 
 #### Web libraries
-* [Embassy](https://github.com/envoy/Embassy): a lightweight async HTTP server library. Runs in Darwin and Linux ^u^
+* [Embassy](https://github.com/envoy/Embassy): a lightweight async HTTP server library.
 
 #### Compute libraries
-* [Nifty](https://github.com/nifty-swift/Nifty): A `numPy`-like library for Swift. Uses LAPACK and it runs on Linux and Darwin. Currently on alpha.
+* [Nifty](https://github.com/nifty-swift/Nifty): A `numPy`-like library for Swift. Wraps `LAPACK` and `Accelerate` for performance. Currently on alpha.
