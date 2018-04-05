@@ -10,7 +10,7 @@ The Swift open source community is growing, but the cross-platform codebase is n
 
 ## The Index
 
-_Structure is WIP!_
+_Structure is WIP_
 
 ### Apps / Tools
 
