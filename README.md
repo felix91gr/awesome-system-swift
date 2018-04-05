@@ -27,6 +27,7 @@ _Structure is WIP!_
 
 #### Quality of Life libraries
 * [Commandant](https://github.com/Carthage/Commandant): a framework for parsing command-line arguments.
+* [SwiftCheck](https://github.com/typelift/SwiftCheck): a powerful library for Property Testing. Inspired by Haskell's QuickCheck.
 
 #### System libraries
 * [iNotify](https://github.com/Ponyboy47/inotify): _Linux only_ a Swift wrapper around the CInotify library. The objective is to be able to have File Events akin to those you can subscribe to in Darwin. _WIP_
