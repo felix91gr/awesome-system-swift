@@ -4,11 +4,11 @@ The Swift open source community is growing, but the cross-platform codebase is n
 
 Our objective is to feature cross-platform libraries, designed for wherever Swift runs ;)
 
-## How to...
+## How do I...
 
-* add to the Index? Issue a Pull Request!
+* **add to the Index?** Issue a Pull Request!
 
-* help? Give us feedback about what you'd like to see here. Currently we're making a List, but it could be a table as well with important characteristics like (a) State of development and (b) Systems supported, on the colums of the grid.
+* **help?** Give us feedback about what you'd like to see here. Currently we're making a List, but it could be a table as well with important characteristics like (a) State of development and (b) Systems supported, on the colums of the grid.
 
 ## The Index
 
