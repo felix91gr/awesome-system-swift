@@ -17,14 +17,21 @@ _Structure is WIP_
 ### Apps / Tools
 
 #### Developer Tools
-* [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): Swift auto-completions for any text editor. Linux port in progress.
-* [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol. Linux port on the making.
+* [Archery](https://github.com/vknabel/Archery): A Swift framework and command-line tool to manage your projects' metadata. Runs on Darwin and Linux.
+* [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol. Linux port on the [making](https://github.com/RLovelett/langserver-swift/pull/36).
+* [Marathon](https://github.com/JohnSundell/Marathon): A command-line tool to run and manage Swift scripts. Runs on Darwin and Linux.
+* [Mint](https://github.com/yonaskolb/Mint): A Swift framework and command-line tool to run and install Swift Package Manager command-line tools. Runs on Darwin and Linux.
 * [SourceKitten](https://github.com/jpsim/SourceKitten): a Swift framework and command-line tool for interacting with SourceKit. Runs in Darwin and Linux ✨ 
+* [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): Swift auto-completions for any text editor. Linux port in progress.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery): a command-line tool for metaprogramming for Swift. Runs on Darwin. Linux support is [planned](https://github.com/krzysztofzablocki/Sourcery/milestone/2).
+* [SwiftLint](https://github.com/realm/SwiftLint): a command-line tool to lint your Swift code. Runs on Darwin and Linux.
 
 ### Libraries
 
 #### Quality of Life libraries
 * [Commandant](https://github.com/Carthage/Commandant): a framework for parsing command-line arguments.
+* [Commander](https://github.com/kylef/Commander): a framework for parsing command-line arguments.
+* [Stencil](https://github.com/kylef/Stencil): a templating engine inspired by Django and Mustache.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck): a powerful library for Property Testing. Inspired by Haskell's QuickCheck.
 
 #### System libraries
