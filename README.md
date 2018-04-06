@@ -18,15 +18,13 @@ _Structure is WIP_
 
 #### Developer Tools
 * [Archery](https://github.com/vknabel/Archery): A Swift framework and command-line tool to manage your projects' metadata. Runs on Darwin and Linux.
-* [Beak](https://github.com/yonaskolb/Beak): A Swift framework and command-line tool to execute functions declared within Swift scripts.
-* [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol. Linux port on the making.
-* [Marathon](https://github.com/JohnSundell/Marathon): A command-line tool to run and manage Swift scripts.
+* [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open Language Server Protocol. Linux port on the [making](https://github.com/RLovelett/langserver-swift/pull/36).
+* [Marathon](https://github.com/JohnSundell/Marathon): A command-line tool to run and manage Swift scripts. Runs on Darwin and Linux.
 * [Mint](https://github.com/yonaskolb/Mint): A Swift framework and command-line tool to run and install Swift Package Manager command-line tools. Runs on Darwin and Linux.
 * [SourceKitten](https://github.com/jpsim/SourceKitten): a Swift framework and command-line tool for interacting with SourceKit. Runs in Darwin and Linux ✨ 
 * [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): Swift auto-completions for any text editor. Linux port in progress.
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery): a command-line tool for metaprogramming for Swift.
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat): a command-line tool to format your Swift code.
-* [SwiftLint](https://github.com/realm/SwiftLint): a command-line tool to lint your Swift code.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery): a command-line tool for metaprogramming for Swift. Runs on Darwin. Linux support is [planned](https://github.com/krzysztofzablocki/Sourcery/milestone/2).
+* [SwiftLint](https://github.com/realm/SwiftLint): a command-line tool to lint your Swift code. Runs on Darwin and Linux.
 
 ### Libraries
 
