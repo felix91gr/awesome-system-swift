@@ -43,3 +43,6 @@ _Structure is WIP_
 
 #### Compute libraries
 * [Nifty](https://github.com/nifty-swift/Nifty): a `numPy`-like library for Swift. Wraps `LAPACK` and `Accelerate` for performance. Currently on alpha.
+
+#### Cipher / Security
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift): Crypto related functions and helpers for Swift implemented in Swift
