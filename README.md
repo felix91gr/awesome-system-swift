@@ -17,7 +17,7 @@ _Structure is WIP_
 ### Apps / Tools
 
 #### Developer Tools
-* [Archery](https://github.com/vknabel/Archery): A Swift framework and command-line tool to **manage your projects' metadata**. Runs on Darwin and Linux.
+* [Archery](https://github.com/vknabel/Archery): A Swift framework and command-line tool to **manage** your projects' **metadata**. Runs on Darwin and Linux.
 * [langserver-swift](https://github.com/RLovelett/langserver-swift): A Swift implementation of the open **Language Server Protocol**. Linux port on the [making](https://github.com/RLovelett/langserver-swift/pull/36).
 * [Marathon](https://github.com/JohnSundell/Marathon): A command-line tool to **run and manage** Swift scripts. Runs on Darwin and Linux.
 * [Mint](https://github.com/yonaskolb/Mint): A Swift framework and command-line tool to **run and install** Swift Package Manager **command-line tools**. Runs on Darwin and Linux.
@@ -29,7 +29,7 @@ _Structure is WIP_
 ### Libraries
 
 #### Quality of Life libraries
-* [CLSwift](https://github.com/twof/CLSwift): Framework for **writing command-line** tools in Swift. Includes type safe argument parsing, input validation, and generated help messages.
+* [CLSwift](https://github.com/twof/CLSwift): Framework for **writing command-line tools** in Swift. Includes type safe argument parsing, input validation, and generated help messages.
 * [Commandant](https://github.com/Carthage/Commandant): a framework for **parsing** command-line **arguments**.
 * [Commander](https://github.com/kylef/Commander): a framework for **parsing** command-line **arguments**.
 * [Stencil](https://github.com/kylef/Stencil): a **templating** engine inspired by Django and Mustache.
