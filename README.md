@@ -29,11 +29,11 @@ _Structure is WIP_
 ### Libraries
 
 #### Quality of Life libraries
+* [CLSwift](https://github.com/twof/CLSwift): Framework for writing command-line tools in Swift. Includes type safe argument parsing, input validation, and generated help messages.
 * [Commandant](https://github.com/Carthage/Commandant): a framework for parsing command-line arguments.
 * [Commander](https://github.com/kylef/Commander): a framework for parsing command-line arguments.
 * [Stencil](https://github.com/kylef/Stencil): a templating engine inspired by Django and Mustache.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck): a powerful library for Property Testing. Inspired by Haskell's QuickCheck.
-* [CLSwift](https://github.com/twof/CLSwift): Framework for writing command-line tools in Swift. Includes type safe argument parsing, input validation, and generated help messages.
 
 #### System libraries
 * [iNotify](https://github.com/Ponyboy47/inotify): _Linux only_ a Swift wrapper around the CInotify library. The objective is to be able to have File Events akin to those you can subscribe to in Darwin. _WIP_
