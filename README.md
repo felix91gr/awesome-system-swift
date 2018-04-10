@@ -13,7 +13,6 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 - Linux support is stable or at least planned
 - Libraries should have unit tests to ensure they work on every platform
 
-
 * **help?** Give us feedback about what you'd like to see here. Currently we're making a List, but it could be a table as well with important characteristics like (a) State of development and (b) Systems supported, on the colums of the grid.
 
 ## The Index
