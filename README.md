@@ -25,6 +25,7 @@ _Structure is WIP_
 * [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): **Swift auto-completions** for any text editor. Linux port in progress.
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery): a command-line tool for **metaprogramming** for Swift. Runs on Darwin. Linux support is [planned](https://github.com/krzysztofzablocki/Sourcery/milestone/2).
 * [SwiftLint](https://github.com/realm/SwiftLint): a command-line tool to **lint** your Swift code. Runs on Darwin and Linux.
+* [Workspace](https://github.com/SDGGiesbrecht/Workspace#workspace): A command‐line tool for centralized **validation and maintenance** of Swift packages. Runs on macOS and Linux. Also supports packages targeting iOS, watchOS and tvOS.
 
 ### Libraries
 
@@ -33,6 +34,8 @@ _Structure is WIP_
 * [Commandant](https://github.com/Carthage/Commandant): a framework for **parsing** command-line **arguments**.
 * [Commander](https://github.com/kylef/Commander): a framework for **parsing** command-line **arguments**.
 * [Console](https://github.com/vapor/console): provides APIs for performing **console I/O** including things like outputting stylized text, requesting user input, and displaying activity indicators like loading bars, part of Vapor project
+* [SDGCommandLine](https://github.com/SDGGiesbrecht/SDGCommandLine#sdgcommandline): Tools for implementing a localized **command‐line** interface.
+* [SDGCornerstone](https://github.com/SDGGiesbrecht/SDGCornerstone#sdgcornerstone): Miscellanous Foundation‐level extensions: cross‐platform, full‐grammar **localization**; cross‐platform, bindable **preferences**; generic **pattern matching**; **randomization**; **arbitrary‐precision arithmetic**; etc.
 * [Stencil](https://github.com/kylef/Stencil): a **templating** engine inspired by Django and Mustache.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck): a powerful library for **Property Testing**. Inspired by Haskell's QuickCheck.
 
