@@ -32,7 +32,7 @@ _Structure is WIP_
 * [CLSwift](https://github.com/twof/CLSwift): Framework for **writing command-line tools** in Swift. Includes type safe argument parsing, input validation, and generated help messages.
 * [Commandant](https://github.com/Carthage/Commandant): a framework for **parsing** command-line **arguments**.
 * [Commander](https://github.com/kylef/Commander): a framework for **parsing** command-line **arguments**.
-* [Console](https://github.com/vapor/console): provides APIs for performing **console I/O** including things like outputting stylized text, requesting user input, and displaying activity indicators like loading bars, part of Vapor project
+* [Vapor-Console](https://github.com/vapor/console): provides APIs for performing **console I/O**, including outputting stylized text, requesting user input, and displaying activity indicators like loading bars.
 * [Stencil](https://github.com/kylef/Stencil): a **templating** engine inspired by Django and Mustache.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck): a powerful library for **Property Testing**. Inspired by Haskell's QuickCheck.
 
@@ -41,11 +41,11 @@ _Structure is WIP_
 
 #### Web libraries
 * [Embassy](https://github.com/envoy/Embassy): a lightweight async HTTP server library.
-* [Tris](https://github.com/tris-foundation/universe): swift tools (async, io, and other) with web server built on top
+* [Tris](https://github.com/tris-foundation/universe): a swift toolbox (async, io, cripto and more) with web server built on top. _WIP_
 * [Vapor](https://github.com/vapor/vapor): a server-side Swift web framework.
 
 #### Compute libraries
 * [Nifty](https://github.com/nifty-swift/Nifty): a `numPy`-like library for Swift. Wraps `LAPACK` and `Accelerate` for performance. Currently on alpha.
 
 #### Cipher / Security
-* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift): Crypto related functions and helpers for Swift implemented in Swift
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift): Crypto related functions and helpers for Swift, implemented in Swift.
