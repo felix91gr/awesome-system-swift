@@ -1,4 +1,4 @@
-- [ ] The project has been added in alphabetically correct order
 - [ ] Project is actively maintained
 - [ ] Linux support is stable or at least planned
-- [ ] For libraries: should have unit tests to ensure they work on every platform
+- [ ] If it's a library, it has tests
+- [ ] Project entry is being added in alphabetical order
