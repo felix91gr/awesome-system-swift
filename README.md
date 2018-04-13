@@ -25,7 +25,7 @@ _Structure is WIP_
 * [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): **Swift auto-completions** for any text editor. Linux port in progress.
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery): a command-line tool for **metaprogramming** for Swift. Runs on Darwin. Linux support is [planned](https://github.com/krzysztofzablocki/Sourcery/milestone/2).
 * [SwiftLint](https://github.com/realm/SwiftLint): a command-line tool to **lint** your Swift code. Runs on Darwin and Linux.
-* [Swift Development Environment](https://github.com/vknabel/vscode-swift-development-environment): a **vscode plugin** for Swift including autocompletion and documentation. Supports Linux and Darwin.
+* [Swift Development Environment](https://github.com/vknabel/vscode-swift-development-environment): a vscode plugin for Swift including **autocompletion**. Supports Linux and Darwin.
 
 ### Libraries
 
