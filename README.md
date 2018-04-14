@@ -41,7 +41,7 @@ _Structure is WIP_
 
 #### Web libraries
 * [Embassy](https://github.com/envoy/Embassy): a lightweight async HTTP server library.
-* [Tris](https://github.com/tris-foundation/universe): a swift toolbox (async, io, cripto and more) with web server built on top. _WIP_
+* [Tris](https://github.com/tris-foundation/universe): a swift toolbox (async, io, crypto and more) with web server built on top. _WIP_
 * [Vapor](https://github.com/vapor/vapor): a server-side Swift web framework.
 
 #### Compute libraries
