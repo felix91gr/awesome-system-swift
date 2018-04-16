@@ -5,5 +5,7 @@
 
 <--
 **Why are tests required for libraries?**
-Without tests, it cannot be guaranteed that all implementations for all platforms behave in exactly the same way or are even operational. 
+Libraries, **unlike apps**, can't be run to check that they work as intended.
+Therefore, tests are essential to maintain them.
+Tests are also very convenient to check that they work on all supported platforms.
 -->
