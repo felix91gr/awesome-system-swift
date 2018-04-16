@@ -11,12 +11,12 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * **know if a project can be added?** You can add all projects you like as long as the following conditions are met:
   - Project is actively maintained
   - Linux support is stable or at least planned.
+  - If it's a library, it has tests
     > **Why are tests required for libraries?**
     > Libraries, **unlike apps**, can't be run to check that they work as intended.
     > Therefore, tests are essential to maintain them.
     > Tests are also very convenient to check that they work on all supported platforms.
-  - If it's a library, it has tests
-
+    
 * **help?** Give us feedback about what you'd like to see here. Currently we're making a List, but it could be a table as well with important characteristics like (a) State of development and (b) Systems supported, on the colums of the grid.
 
 ## The Index
