@@ -45,7 +45,7 @@ _Structure is WIP_
 * [Vapor-Console](https://github.com/vapor/console): provides APIs for performing **console I/O**, including outputting stylized text, requesting user input, and displaying activity indicators like loading bars.
 * [Stencil](https://github.com/kylef/Stencil): a **templating** engine inspired by Django and Mustache.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck): a powerful library for **Property Testing**. Inspired by Haskell's QuickCheck.
-* [SwiftShell](https://github.com/kareman/SwiftShell): a framework for **running shell commands**  and handling their inputs and outputs. 
+* [SwiftShell](https://github.com/kareman/SwiftShell): a framework for **running shell commands** and handling their inputs and outputs. 
 
 #### System libraries
 * [iNotify](https://github.com/Ponyboy47/inotify): _Linux only_ a Swift wrapper around the CInotify library. The objective is to be able to have File Events akin to those you can subscribe to in Darwin. _WIP_
