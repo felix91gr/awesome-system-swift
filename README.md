@@ -47,7 +47,6 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 
 ### System Libraries
 > _Tags: compression, random, sourcekit, files_
-* [Compression](https://github.com/tris-foundation/compression):  _todo_
 * [Perfect-Zip](https://github.com/PerfectlySoft/Perfect-Zip): wrapper over the `minizip` C library. Provides simple zip and unzip functionality.
 * [RandomKit](https://github.com/nvzqz/RandomKit): random data generation simple and easy.
 * [Files](https://github.com/JohnSundell/Files): a nicer way to handle files and folders on Swift.
