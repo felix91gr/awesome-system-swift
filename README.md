@@ -60,3 +60,12 @@ _Structure is WIP_
 
 #### Cipher / Security
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift): Crypto related functions and helpers for Swift, implemented in Swift.
+
+#### Logging libraries
+* [TraceLog](https://github.com/tonystone/tracelog): A debug and trace logging framework. Runs on ios, osx, and linux.
+
+#### Geometry libraries
+* [GeoFeatures](https://github.com/tonystone/geofeatures2): A lightweight, high performance geometry library in Swift. Runs on ios, osx, and linux.
+
+#### Locking / Concurrency libraries
+* [StickyLocking](https://github.com/stickytools/sticky-locking): A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types. Runs on ios, osx, and linux.
