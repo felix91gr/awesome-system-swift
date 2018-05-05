@@ -47,11 +47,11 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 
 ### System Libraries
 > _Tags: compression, random, sourcekit, files_
+* [iNotify](https://github.com/Ponyboy47/inotify): a Swift wrapper around Linux's C library `inotify`. Makes it possible to have File Events like those you can subscribe to on Darwin (_Linux library, emulates `FSEventStream` APIs_).
+* [Files](https://github.com/JohnSundell/Files): a nicer way to handle files and folders on Swift.
 * [Perfect-Zip](https://github.com/PerfectlySoft/Perfect-Zip): wrapper over the `minizip` C library. Provides simple zip and unzip functionality.
 * [RandomKit](https://github.com/nvzqz/RandomKit): random data generation simple and easy.
-* [Files](https://github.com/JohnSundell/Files): a nicer way to handle files and folders on Swift.
 * [SourceKitten](https://github.com/jpsim/SourceKitten): a Swift framework and command-line tool for interacting with **SourceKit**.
-* [iNotify](https://github.com/Ponyboy47/inotify): a Swift wrapper around Linux's C library `inotify`. Makes it possible to have File Events like those you can subscribe to on Darwin (_Linux library, emulates `FSEventStream` APIs_).
 
 ### Signal and Image Processing
 > _Tags: image processing_
