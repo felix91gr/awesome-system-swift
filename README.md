@@ -38,7 +38,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [Quick](https://github.com/Quick/Quick): a **behavior driven development** framework.
 * [Nimble](https://github.com/Quick/Nimble): **matcher** and **testing** counterpart for Quick.
 * [Spectre](https://github.com/kylef/Spectre): a **BDD** framework and test runner for Swift.
-* [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift): cross platform, reactive programming. `Result + async + Sequence = ReactiveSwift`
+* [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift): cross platform, **reactive** programming. `Result + async + Sequence = ReactiveSwift`
 * [PromiseKit](https://github.com/mxcl/PromiseKit/): a complete implementation of **promises**, allowing for easy **asyncronous** programming.
 * [Deferred](https://github.com/bignerdranch/Deferred): a small **futures** library.
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja): primitives for enabling concurrency and reactive programming.
