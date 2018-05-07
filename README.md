@@ -22,7 +22,6 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 
 ## The Index
 
-
 ### Command Line UI tools
 > _Tags: parsing, CLI, arguments, command, console, terminal, shell_
 * [CLSwift](https://github.com/twof/CLSwift): Framework for **writing command-line tools** in Swift. Includes type safe argument parsing, input validation, and generated help messages.
@@ -34,15 +33,18 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [Vapor-Console](https://github.com/vapor/console): provides APIs for performing **console I/O**, including outputting stylized text, requesting user input, and displaying activity indicators like loading bars.
 
 ### Workflow-enabler Frameworks
-> *Tags: BDD, testing, reactive, promise, async, result*
-* [Quick](https://github.com/Quick/Quick): a **behavior driven development** framework.
-* [Nimble](https://github.com/Quick/Nimble): **matcher** and **testing** counterpart for Quick.
-* [Spectre](https://github.com/kylef/Spectre): a **BDD** framework and test runner for Swift.
-* [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift): cross platform, **reactive** programming. `Result + async + Sequence = ReactiveSwift`
-* [PromiseKit](https://github.com/mxcl/PromiseKit/): a complete implementation of **promises**, allowing for easy **asyncronous** programming.
-* [Deferred](https://github.com/bignerdranch/Deferred): a small **futures** library.
+#### Asyncronous and Reactive Programming
+> *Tags: reactive, promise, async, result*
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja): primitives for enabling concurrency and reactive programming.
+* [Deferred](https://github.com/bignerdranch/Deferred): a small **futures** library.
+* [PromiseKit](https://github.com/mxcl/PromiseKit/): a complete implementation of **promises**, allowing for easy **asyncronous** programming.
+* [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift): cross platform, **reactive** programming. `Result + async + Sequence = ReactiveSwift`
 * [Result](https://github.com/antitypical/Result): microframework for modeling and handling errors in code.
+#### Testing and Behavior Driven Development
+> *Tags: BDD, testing, quickcheck, property*
+* [Nimble](https://github.com/Quick/Nimble): **matcher** and **testing** counterpart for Quick.
+* [Quick](https://github.com/Quick/Quick): a **BDD** framework.
+* [Spectre](https://github.com/kylef/Spectre): a **BDD** framework and test runner for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck): a powerful library for **Property Testing**. Inspired by Haskell's QuickCheck.
 
 ### System Libraries
