@@ -118,12 +118,3 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 #### Logging libraries
 > _Tags: logging, logging-libraries, debug, debugging, trace_
 * [TraceLog](https://github.com/tonystone/tracelog): A debug and trace logging framework. Runs on ios, osx, and linux.
-
-#### Geometry libraries
-> _Tags: geometry, shape, map, point, linestring, polygon, multipoint, multilinestring, multipolygon, geojson, wkt, intersection, union, within, contains_
-* [GeoFeatures](https://github.com/tonystone/geofeatures2): A lightweight, high performance geometry library in Swift. Runs on ios, osx, and linux.
-
-#### Locking / Concurrency libraries
-> _Tags: lock, locking, lock-manager, mutex, conditions, concurrency_
-* [StickyLocking](https://github.com/stickytools/sticky-locking): A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types. Runs on ios, osx, and linux.
-
