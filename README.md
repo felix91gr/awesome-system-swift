@@ -114,3 +114,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 ### Foundation Extensions
 > _Tags: localization, preferences, random, precision, pattern matching_
 * [SDGCornerstone](https://github.com/SDGGiesbrecht/SDGCornerstone#sdgcornerstone): cross‐platform, full‐grammar **localization**; cross‐platform, bindable **preferences**; generic **pattern matching**; **randomization**; **arbitrary‐precision arithmetic**; etc.
+
+#### Logging libraries
+> _Tags: logging, logging-libraries, debug, debugging, trace_
+* [TraceLog](https://github.com/tonystone/tracelog): A debug and trace logging framework. Runs on ios, osx, and linux.
