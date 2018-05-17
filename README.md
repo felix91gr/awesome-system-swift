@@ -100,6 +100,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 ### Web Libraries
 > _Tags: async, http, server, web_
 * [Embassy](https://github.com/envoy/Embassy): a lightweight async HTTP server library.
+* [Kitura](https://github.com/IBM-Swift/Kitura): a server-side Swift web framework.
 * [Tris](https://github.com/tris-foundation/universe): a swift toolbox (async, io, crypto and more) with web server built on top. _WIP_
 * [Vapor](https://github.com/vapor/vapor): a server-side Swift web framework.
 
