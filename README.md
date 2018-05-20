@@ -43,7 +43,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [PromiseKit](https://github.com/mxcl/PromiseKit/): a complete implementation of **promises**, allowing for easy **asyncronous** programming.
 * [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift): cross platform, **reactive** programming. `Result + async + Sequence = ReactiveSwift`
 * [Result](https://github.com/antitypical/Result): microframework for modeling and handling errors in code.
-* [RxSwift](https://github.com/ReactiveX/RxSwift)<sup>[1](#footnote_testing_rxSwift)</sup>: **reactive** programming in Swift.
+* [RxSwift](https://github.com/ReactiveX/RxSwift): **reactive** programming in Swift.<sup>[1](#footnote_testing_rxSwift)</sup>
 #### Testing and Behavior Driven Development
 > *Tags: BDD, testing, quickcheck, property*
 * [Nimble](https://github.com/Quick/Nimble): **matcher** and **testing** counterpart for Quick.
