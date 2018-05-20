@@ -16,9 +16,10 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
     <details>
     <summary>Why are tests required for libraries?</summary>
 
-    > Libraries, **unlike apps**, can't be run to check that they work as intended.
-    > Therefore, tests are essential to maintain them.
-    > Tests are also very convenient to check that they work on all supported platforms.
+    * Unlike apps, libraries **can't be run** to check if they work as intended. They have to be used in a program or checked by a test suite.
+    * In general, testing will be **more exhaustive** than usage.
+    * Testing can also be **automated** using continuous integration.
+    * Tests can be set up to **run on different** platforms. This helps in keeping **compatibility**.
     </details>
     
 * **help?** Give us feedback about what you'd like to see here. Currently we're making a List, but it could be a table as well with important characteristics like (a) State of development and (b) Systems supported, on the colums of the grid.
