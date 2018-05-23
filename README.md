@@ -37,6 +37,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [Vapor-Console](https://github.com/vapor/console): provides APIs for performing **console I/O**, including outputting stylized text, requesting user input, and displaying activity indicators like loading bars.
 
 ### Workflow-enabler Frameworks
+
 #### Asyncronous and Reactive Programming
 > *Tags: reactive, promise, async, result*
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja): primitives for enabling concurrency and reactive programming.
@@ -45,6 +46,11 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift): cross platform, **reactive** programming. `Result + async + Sequence = ReactiveSwift`
 * [Result](https://github.com/antitypical/Result): microframework for modeling and handling errors in code.
 * [RxSwift](https://github.com/ReactiveX/RxSwift): **reactive** programming in Swift.<sup>[1](#footnote_testing_rxSwift)</sup>
+
+#### Logging and Tracing
+> _Tags: logging, debugging, trace_
+* [TraceLog](https://github.com/tonystone/tracelog): A debug and trace logging framework.
+
 #### Testing and Behavior Driven Development
 > *Tags: BDD, testing, quickcheck, property*
 * [Nimble](https://github.com/Quick/Nimble): **matcher** and **testing** counterpart for Quick.
@@ -118,10 +124,6 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 ### Foundation Extensions
 > _Tags: localization, preferences, random, precision, pattern matching_
 * [SDGCornerstone](https://github.com/SDGGiesbrecht/SDGCornerstone#sdgcornerstone): cross‐platform, full‐grammar **localization**; cross‐platform, bindable **preferences**; generic **pattern matching**; **randomization**; **arbitrary‐precision arithmetic**; etc.
-
-#### Logging libraries
-> _Tags: logging, logging-libraries, debug, debugging, trace_
-* [TraceLog](https://github.com/tonystone/tracelog): A debug and trace logging framework. Runs on ios, osx, and linux.
 
 ---
 
