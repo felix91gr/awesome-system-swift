@@ -88,16 +88,16 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 > _Tags: autocomplete, metaprogramming, templates, linting_
 * [langserver-swift](https://github.com/RLovelett/langserver-swift): a Swift implementation of the open **Language Server Protocol**. Linux port on the [making](https://github.com/RLovelett/langserver-swift/pull/36).
 * [SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon): **Swift auto-completions** for any text editor. Linux port in progress.
-* [Swift Development Environment](https://github.com/vknabel/vscode-swift-development-environment): a vscode plugin for Swift including **autocompletion**. Supports Linux and Darwin.
+* [Swift Development Environment](https://github.com/vknabel/vscode-swift-development-environment): a vscode plugin for Swift including **autocompletion**. _Supports Linux and Darwin._
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery): a command-line tool for **metaprogramming** for Swift. Runs on Darwin. Linux support is [planned](https://github.com/krzysztofzablocki/Sourcery/milestone/2).
 * [Stencil](https://github.com/kylef/Stencil): a **templating** engine inspired by Django and Mustache.
-* [SwiftLint](https://github.com/realm/SwiftLint): a command-line tool to **lint** your Swift code. Runs on Darwin and Linux.
+* [SwiftLint](https://github.com/realm/SwiftLint): a command-line tool to **lint** your Swift code.
 
 #### Other Developer Tools
 > _Tags: scripting, metadata, project, install_
-* [Archery](https://github.com/vknabel/Archery): a Swift framework and command-line tool to **manage** your projects' **metadata**. Runs on Darwin and Linux.
-* [Marathon](https://github.com/JohnSundell/Marathon): a command-line tool to **run and manage** Swift scripts. Runs on Darwin and Linux.
-* [Mint](https://github.com/yonaskolb/Mint): a Swift framework and command-line tool to **run and install** Swift Package Manager **command-line tools**. Runs on Darwin and Linux.
+* [Archery](https://github.com/vknabel/Archery): a Swift framework and command-line tool to **manage** your projects' **metadata**.
+* [Marathon](https://github.com/JohnSundell/Marathon): a command-line tool to **run and manage** Swift scripts.
+* [Mint](https://github.com/yonaskolb/Mint): a Swift framework and command-line tool to **run and install** Swift Package Manager **command-line tools**.
 * [Workspace](https://github.com/SDGGiesbrecht/Workspace#workspace): a command‐line tool for centralized **validation and maintenance** of Swift packages.
 
 ### Web Libraries
