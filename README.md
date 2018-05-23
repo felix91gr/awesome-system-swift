@@ -26,6 +26,8 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 
 ## The Index
 
+**Note:** every library listed here is supported both on Darwin and Linux, unless noted otherwise.
+
 ### Command Line UI tools
 > _Tags: parsing, CLI, arguments, command, console, terminal, shell_
 * [CLSwift](https://github.com/twof/CLSwift): Framework for **writing command-line tools** in Swift. Includes type safe argument parsing, input validation, and generated help messages.
