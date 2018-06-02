@@ -30,6 +30,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 
 ### Command Line UI tools
 > _Tags: parsing, CLI, arguments, command, console, terminal, shell_
+* [Beak](https://github.com/yonaskolb/Beak): allows **executing functions** from your command line.
 * [CLSwift](https://github.com/twof/CLSwift): Framework for **writing command-line tools** in Swift. Includes type safe argument parsing, input validation, and generated help messages.
 * [Commandant](https://github.com/Carthage/Commandant): a framework for **parsing** command-line **arguments**.
 * [Commander](https://github.com/kylef/Commander): a framework for **parsing** command-line **arguments**.
