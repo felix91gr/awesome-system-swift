@@ -30,7 +30,6 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 
 ### Command Line UI tools
 > _Tags: parsing, CLI, arguments, command, console, terminal, shell_
-* [Beak](https://github.com/yonaskolb/Beak): allows **executing functions** from your command line.
 * [CLSwift](https://github.com/twof/CLSwift): Framework for **writing command-line tools** in Swift. Includes type safe argument parsing, input validation, and generated help messages.
 * [Commandant](https://github.com/Carthage/Commandant): a framework for **parsing** command-line **arguments**.
 * [Commander](https://github.com/kylef/Commander): a framework for **parsing** command-line **arguments**.
@@ -105,6 +104,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 #### Other Developer Tools
 > _Tags: scripting, metadata, project, install_
 * [Archery](https://github.com/vknabel/Archery): a Swift framework and command-line tool to **manage** your projects' **metadata**.
+* [Beak](https://github.com/yonaskolb/Beak): allows **executing functions** from your command line.
 * [Marathon](https://github.com/JohnSundell/Marathon): a command-line tool to **run and manage** Swift scripts.
 * [Mint](https://github.com/yonaskolb/Mint): a Swift framework and command-line tool to **run and install** Swift Package Manager **command-line tools**.
 * [Workspace](https://github.com/SDGGiesbrecht/Workspace#workspace): a command‐line tool for centralized **validation and maintenance** of Swift packages.
