@@ -104,6 +104,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 #### Other Developer Tools
 > _Tags: scripting, metadata, project, install_
 * [Archery](https://github.com/vknabel/Archery): a Swift framework and command-line tool to **manage** your projects' **metadata**.
+* [Beak](https://github.com/yonaskolb/Beak): allows **executing functions** from your command line.
 * [Marathon](https://github.com/JohnSundell/Marathon): a command-line tool to **run and manage** Swift scripts.
 * [Mint](https://github.com/yonaskolb/Mint): a Swift framework and command-line tool to **run and install** Swift Package Manager **command-line tools**.
 * [Workspace](https://github.com/SDGGiesbrecht/Workspace#workspace): a command‐line tool for centralized **validation and maintenance** of Swift packages.
