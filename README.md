@@ -116,10 +116,6 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [Tris](https://github.com/tris-foundation/universe): a swift toolbox (async, io, crypto and more) with web server built on top. _WIP_
 * [Vapor](https://github.com/vapor/vapor): a server-side Swift web framework.
 
-### Compute Libraries
-> _Tags: compute, vector, matrix, lapack, blas, accelerate_
-* [Nifty](https://github.com/nifty-swift/Nifty): a `numPy`-like library for Swift. Wraps `LAPACK` and `Accelerate` for performance. Currently on alpha.
-
 ### Cipher / Security
 > _Tags: hash, crc, authentication, cipher block mode, aes, pbkd, hmac_ 
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift): crypto related functions and helpers for Swift, implemented in Swift.
