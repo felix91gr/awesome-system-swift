@@ -128,3 +128,5 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 ---
 
 <a name="footnote_testing_rxSwift">1</a>: RxSwift doesn't currently support `swift test`. In order to run its test suites, use their script `./scripts/all-tests.sh`
+
+<!-- Hi, I'm a little comment we're using to test Travis :D -->
