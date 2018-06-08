@@ -21,7 +21,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
     * Testing can also be **automated** using continuous integration.
     * Tests can be set up to **run on different** platforms. This helps in keeping **compatibility**.
     </details>
-    
+
 * **help?** Give us feedback about what you'd like to see here. Currently we're making a List, but it could be a table as well with important characteristics like (a) State of development and (b) Systems supported, on the colums of the grid.
 
 ## The Index
@@ -35,7 +35,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [Commander](https://github.com/kylef/Commander): a framework for **parsing** command-line **arguments**.
 * [SDGCommandLine](https://github.com/SDGGiesbrecht/SDGCommandLine#sdgcommandline): tools for implementing a localized **command‐line** interface.
 * [SwiftCLI](https://github.com/jakeheis/SwiftCLI): a framework made to develop CLIs in Swift
-* [SwiftShell](https://github.com/kareman/SwiftShell): a framework for **running shell commands** and handling their inputs and outputs. 
+* [SwiftShell](https://github.com/kareman/SwiftShell): a framework for **running shell commands** and handling their inputs and outputs.
 * [Vapor-Console](https://github.com/vapor/console): provides APIs for performing **console I/O**, including outputting stylized text, requesting user input, and displaying activity indicators like loading bars.
 
 ### Workflow-enabler Frameworks
@@ -55,6 +55,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 
 #### Testing and Behavior Driven Development
 > *Tags: BDD, testing, quickcheck, property*
+* [danger-swift](https://github.com/danger/danger-swift): Stop saying "you forgot to …" in code **review**.
 * [Nimble](https://github.com/Quick/Nimble): **matcher** and **testing** counterpart for Quick.
 * [Quick](https://github.com/Quick/Quick): a **BDD** framework.
 * [Spectre](https://github.com/kylef/Spectre): a **BDD** framework and test runner for Swift.
@@ -76,15 +77,15 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 ### Data Structures
 > _Tags: heap, queue, graph, sorted, generic, search_
 * [SortedArray](https://github.com/ole/SortedArray): a generic array that keeps its elements sorted according to a given sort predicate.
-* [SwiftGraph](https://github.com/davecom/SwiftGraph): a very complete implementation of the graph data structure. 
+* [SwiftGraph](https://github.com/davecom/SwiftGraph): a very complete implementation of the graph data structure.
     <details>
     <summary>Included in SwiftGraph is...</summary>
 
 	* Support for weighted, unweighted, directed and undirected graphs. Graphs are generic over the types of their weights and vertices.
 	* Search functions like DFS, BFS and Dijkstra's algorithm.
 	* Utility functions for topological sort, Jarnik's algorithm to find a minimum-spanning tree, detecting a DAG (directed-acyclic-graph), and enumerating all cycles.
-    </details> 
-* [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue): a generic Priority Queue, implemented using a binary heap over an array. 
+    </details>
+* [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue): a generic Priority Queue, implemented using a binary heap over an array.
 
 ### String Processing
 > _Tags: regex_
@@ -117,7 +118,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [Vapor](https://github.com/vapor/vapor): a server-side Swift web framework.
 
 ### Cipher / Security
-> _Tags: hash, crc, authentication, cipher block mode, aes, pbkd, hmac_ 
+> _Tags: hash, crc, authentication, cipher block mode, aes, pbkd, hmac_
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift): crypto related functions and helpers for Swift, implemented in Swift.
 
 ### Foundation Extensions
