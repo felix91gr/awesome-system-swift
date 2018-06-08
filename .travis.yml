@@ -1,0 +1,18 @@
+
+language: generic
+sudo: required
+dist: trusty
+notifications:
+email: false
+os: linux
+install:
+- node -v
+- npm install -g danger
+- eval "$(curl -sL https://swiftenv.fuller.li/install.sh)"
+- swiftenv install 4.1
+- swiftenv global 4.1
+- git clone https://github.com/danger/danger-swift.git
+- sudo chmod -R a+rwx /usr/local/
+- cd danger-swift && make install && cd ..
+script:
+- danger process danger-swift
