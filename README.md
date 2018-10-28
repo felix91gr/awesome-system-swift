@@ -52,6 +52,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 #### Logging and Tracing
 > _Tags: logging, debugging, trace_
 * [TraceLog](https://github.com/tonystone/tracelog): A debug and trace logging framework.
+* [TraceLog Adaptive Writer](https://github.com/tonystone/tracelog-adaptive-writer): A Writer implementation for the TraceLog logging system that logs to the system logging facility on the platform that it is running on (Linux systemd Journal on Linux and Apple Unified Logging on Darwin).
 
 #### Testing and Behavior Driven Development
 > *Tags: BDD, testing, quickcheck, property*
