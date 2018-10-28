@@ -22,7 +22,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
     * Tests can be set up to **run on different** platforms. This helps in keeping **compatibility**.
     </details>
 
-* **help?** Give us feedback about what you'd like to see here. Currently we're making a List, but it could be a table as well with important characteristics like (a) State of development and (b) Systems supported, on the colums of the grid.
+* **help?** Give us feedback about what you'd like to see here. Currently we're making a List, but it could be a table as well with important characteristics like (a) State of development and (b) Systems supported, on the columns of the grid.
 
 ## The Index
 
@@ -40,7 +40,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 
 ### Workflow-enabler Frameworks
 
-#### Asyncronous and Reactive Programming
+#### Asynchronous and Reactive Programming
 > *Tags: reactive, promise, async, result*
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja): primitives for enabling concurrency and reactive programming.
 * [Deferred](https://github.com/bignerdranch/Deferred): a small **futures** library.
