@@ -101,6 +101,7 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [Swift Development Environment](https://github.com/vknabel/vscode-swift-development-environment): a vscode plugin for Swift including **autocompletion**. _Supports Linux and Darwin._
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery): a command-line tool for **metaprogramming** for Swift. Runs on Darwin. Linux support is [planned](https://github.com/krzysztofzablocki/Sourcery/milestone/2).
 * [Stencil](https://github.com/kylef/Stencil): a **templating** engine inspired by Django and Mustache.
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat): a command-line tool to **format** your Swift code.
 * [SwiftLint](https://github.com/realm/SwiftLint): a command-line tool to **lint** your Swift code.
 
 #### Other Developer Tools
