@@ -88,6 +88,9 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
     </details>
 * [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue): a generic Priority Queue, implemented using a binary heap over an array.
 
+### Runtime Scripting
+* [Expression](https://github.com/nicklockwood/Expression): a framework for evaluating mathematical expressions at runtime. Supports user-defined functions and operators, and can be used to implement anything from a simple calculator to a fully-fledged functional programming language.
+
 ### String Processing
 > _Tags: regex_
 * [Guitar](https://github.com/ArtSabintsev/Guitar): string and **regex** library written in Swift.
