@@ -49,6 +49,9 @@ Our objective is to feature cross-platform libraries, designed for wherever Swif
 * [Result](https://github.com/antitypical/Result): microframework for modeling and handling errors in code.
 * [RxSwift](https://github.com/ReactiveX/RxSwift): **reactive** programming in Swift.<sup>[1](#footnote_testing_rxSwift)</sup>
 
+### Graphics
+* [Euclid](https://github.com/nicklockwood/Euclid): a library for creating and manipulating 3D geometry using techniques such as extrusion and CSG (Constructive Solid Geometry). Includes SceneKit, CoreGraphics and CoreText integration on supported platforms (iOS, macOS).
+
 #### Logging and Tracing
 > _Tags: logging, debugging, trace_
 * [TraceLog](https://github.com/tonystone/tracelog): A debug and trace logging framework.
